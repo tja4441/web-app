@@ -1,0 +1,21 @@
+.taskbar {
+    background-color: #142d4c;
+    height:60px;
+}
+
+.logo {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+p {
+    color: #ececec;
+    display: inline;
+}
+.hamburger-menu {
+    float: right;
+    margin: 10px;
+    height: 40px;
+    fill: #ececec;
+}
